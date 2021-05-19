@@ -1,0 +1,65 @@
+*{
+	font-family: arial;
+}
+
+body {
+
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	border: 1px solid #c1c1c1;
+	height: 400px;
+	width: 400px;
+
+}
+
+.contador {
+	height: 50%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.contador span {
+	width: 100%;
+    text-align: center;
+}
+
+.contador .title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #3366ff;
+
+}
+
+.contador .numero {
+	font-size: 90px;
+	font-weight: bold;
+	color: #808080;
+	border: 1px solid #c1c1c1;
+
+}
+
+.botao {
+	height: 50%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.botao button {
+	font-size: 20px;
+	font-weight: bold;
+	height: 50px;
+	width: 100px;
+	color: #fff;
+	background-color: #3366ff;
+	border: 0;
+	cursor: pointer;
+}
+
+
