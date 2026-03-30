@@ -39,6 +39,7 @@ CSS
 Uso de fundo de cores para o fundo das telas
 Edição de cores, texto e tamanho de imagens
 Conceito de alinhamento de telas e imagem
+
 Porque foi construído?
 
 O projeto_contador, foi construído apenas para aplicação dos conceitos aprendidos de JavaScript,
