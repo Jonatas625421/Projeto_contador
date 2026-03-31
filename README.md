@@ -1,11 +1,11 @@
 # Título do Projeto: Projeto_contador
 
-👋Descrição:
+👋## Descrição:
 Este é um projeto simples de um contador de números, que ao clicar no botão de adição,
 os números vão subindo e ao clicar no botão de subtração, os mesmos diminuem.O botão de
 reset, zera o contador.
 
-Instruções de instalação/Uso do projeto:
+## Instruções de instalação/Uso do projeto:
 
 Faça um clone do projeto direto para sua máquina.
 Navegue até a pasta raiz onde o projeto clonado.
@@ -18,7 +18,7 @@ co utilizado:
 
 Utilizei basicamente HTML puro, JavaScript e CSS para a estilização.
 
-Conceitos utilizados na construção do projeto:
+## Conceitos utilizados na construção do projeto:
 
 HTML
 
@@ -40,7 +40,7 @@ Uso de fundo de cores para o fundo das telas
 Edição de cores, texto e tamanho de imagens
 Conceito de alinhamento de telas e imagem
 
-Porque foi construído?
+## Porque foi construído?
 
 O projeto_contador, foi construído apenas para aplicação dos conceitos aprendidos de JavaScript,
 onde pude entender como funcionam funções, que somam, eventos e manipulações que dão dinamismo a
